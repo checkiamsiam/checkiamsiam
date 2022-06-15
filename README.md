@@ -38,11 +38,11 @@
 
 |                                                    My Stats                                                    |
 | :------------------------------------------------------------------------------------------------------------: |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&theme=algolia) |
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=checkiamsiam&show_icons=true&theme=algolia) |
 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=null3000&theme=algolia)
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=checkiamsiam&theme=algolia)
 
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/checkiamsiam/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/checkiamsiam"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/checkiamsiam"><img src="https://img.shields.io/badge/-@checkiamsiam_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
