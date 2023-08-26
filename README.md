@@ -1,45 +1,97 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Welcome !
+# Hi, I'm Siam 👋🏾 👩🏾‍💻
 
-![profile count](https://komarev.com/ghpvc/?username=checkiamsiaml&color=red)&nbsp;
-[![GitHub checkiamsiam](https://img.shields.io/github/followers/checkiamsiam?label=follow&style=social)](https://github.com/checkiamsiam)&nbsp;
+![Github Banner](https://media.licdn.com/dms/image/D5616AQFCRUbJzEFlJQ/profile-displaybackgroundimage-shrink_350_1400/0/1693051261031?e=1698278400&v=beta&t=_7-QINg_kr2MFgprafIqt5-1Z-p5AKMxH7nxyh4pOcM)
 
-### 👨🏻‍💻 &nbsp;About Me
+## Who am I?
 
-💡 &nbsp; My self Sheikh Shahariar Siam. \
-🎓&nbsp;I graduated form Dhaka Polytechnic Institute, Dhaka (Diploma in Engineering at Computer Science and Technology).\
-🌱 &nbsp;I'm on track for learning more about MERN Stack Development\
-✍️ &nbsp;I spend My free time By watching movie and playing online game\
-💬 &nbsp;Feel Free to Get In Touch With Me\
-✉️ &nbsp;Email For Direct message issiam02415@gmail.com \
-📄 &nbsp;Download My [Resume](https://drive.google.com/file/d/1ShKKTsrgN_E1W1yYxhBklMhuPVOeDZcu/view?usp=sharing) for more details.
+ ```Javascript
 
-### 🛠 &nbsp;Tech Stack
+class WhoAmI {
+  name = "Sheikh Shahariar Siam";
+  education = "Diploma in Computer Science And Technology";
+  profession = "Software Development";
+  learningNewTechnologies = true ;
+  funFact = "not loving but laughing"; 
+  hobbies = [
+    "Playing Cricket",
+    "Online Games",
+    "Watching Movies",
+    "Exploring Science"
+  ];
+  location = "Dhaka, Bangladesh";
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp; \
-![Express Js](https://img.shields.io/badge/Express.js-404D59?style=flat)&nbsp;
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=fflat&logo=heroku&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;
+  ambitions = "to be a establishe software engineer";
 
-## GitHub Stats
+  getFullName() {
+    return this.name ;
+  }
 
-|                                                      My Stats                                                      |
-| :----------------------------------------------------------------------------------------------------------------: |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=checkiamsiam&show_icons=true&theme=algolia) |
+  getCity() {
+    return this.city;
+  }
 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=checkiamsiam&theme=algolia)
+  getAmbitions() {
+    return this.ambitions;
+  }
+}
 
-### 📫 &nbsp; How to reach me:
+const me = new WhoAmI();
 
-<a href="https://www.linkedin.com/in/checkiamsiam/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.facebook.com/checkiamsiam/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/checkiamsiam"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/checkiamsiam"><img src="https://img.shields.io/badge/-@checkiamsiam_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+ ```
+
+
+
+
+
+
+
+# 
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=checkiamsiam&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+</p>
+
+# 
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=checkiamsiam&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checkiamsiam&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br>
+
+
+#
+
+<a href="https://twitter.com/checkiamsiam">
+  <img align="left" alt="Siam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/checkiamsiam/">
+  <img align="left" alt="Siam's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/checkiamsiam/">
+  <img align="left" alt="Siam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/checkiamsiam">
+  <img align="left" alt="Siam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/checkiamsiam/count.svg)
+
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
