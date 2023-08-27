@@ -1,6 +1,6 @@
 # Hi, I'm Siam 👋🏾 👩🏾‍💻
 
-![Github Banner](https://media.licdn.com/dms/image/D5616AQFCRUbJzEFlJQ/profile-displaybackgroundimage-shrink_350_1400/0/1693051261031?e=1698278400&v=beta&t=_7-QINg_kr2MFgprafIqt5-1Z-p5AKMxH7nxyh4pOcM)
+![Github Banner](https://media.licdn.com/dms/image/D5616AQHX6Q4MJrmyfw/profile-displaybackgroundimage-shrink_350_1400/0/1693148565612?e=1698883200&v=beta&t=4ar32noL00EY8Mv1LxaGw59eKE5EQ8MFbaDu2D2KRZ8)
 
 ## Who am I?
 
