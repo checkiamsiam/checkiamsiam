@@ -92,5 +92,5 @@ const me = new WhoAmI();
 
 
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/checkiamsiam/checkiamsiam/output/github-contribution-grid-snake.svg" />
+  ![Snake animation](https://github.com/checkiamsiam/checkiamsiam/blob/output/github-contribution-grid-snake.svg)
 </p>
