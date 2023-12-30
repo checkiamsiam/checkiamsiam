@@ -1,8 +1,8 @@
 # Hi, I'm Siam 👋🏾 👩🏾‍💻
 
-![Github Banner](https://media.licdn.com/dms/image/D5616AQHX6Q4MJrmyfw/profile-displaybackgroundimage-shrink_350_1400/0/1693148565612?e=1698883200&v=beta&t=4ar32noL00EY8Mv1LxaGw59eKE5EQ8MFbaDu2D2KRZ8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+React+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)
 
-## Who am I?
+## More About Me
 
  ```Javascript
 
